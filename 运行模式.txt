@@ -1,0 +1,14 @@
+一：phpunit
+
+php4.1.13
+	
+	php4.1.13环境下浏览器运行 php4unitTestSuite.php
+
+php5+ 
+	php5+ 环境下 通过cli模式 命令行运行 phpunit  php5TestCase.php
+
+
+二：simpletest
+
+php5+ 	
+	php5+ 环境下 浏览器运行simpletestTestCase.php 
